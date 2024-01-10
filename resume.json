@@ -1,0 +1,39 @@
+{
+    "name": "Niranjan C",
+    "contact": {
+      "email": "niranjanrcs2003@gmail.com",
+      "phone": "8754483621",
+      "address": "plot no.5, iyyappanagar, 2nd cross street, medavakkam, chennai 600-100"
+    },
+    "summary": "Experienced professional with a background in...",
+    "education": [
+      {
+        "degree": "Bachelor of engineering in Computer Science",
+        "institution": "Sathyabama institute of science and technology",
+        "graduation_year": "2024"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Software Developer",
+        "company": "ABC Inc.",
+        "dates": "2019 - Present",
+        "description": "Developed and maintained..."
+      },
+      {
+        "title": "Intern",
+        "company": "EFG Company",
+        "dates": "2018 - 2019",
+        "description": "Assisted with various tasks..."
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "HTML/CSS",
+      "Node.js",
+      "React.js",
+      "MongoDB",
+      "Teamwork"
+    ]
+  }
+  
